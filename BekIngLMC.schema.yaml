@@ -4,7 +4,7 @@
 schema:
   schema_id: BekIngLMC
   name: 福州話八音羅馬字
-  version: "2019.9.14.1"
+  version: "2019.11.16.1"
   author:
     - 作者：子善 <zysieng@gamil.com>
     - 基於八音音系的福州話羅馬字，用於總領表達十邑各腔。
