@@ -1,0 +1,62 @@
+# Rime schema
+# encoding: UTF-8
+
+schema:
+  schema_id: GauHuoiLMC
+  name: 福州話教會羅馬字
+  version: "2019.11.16.1"
+  author:
+    - 作者：子善 <zysieng@gamil.com>
+    - 基於十九世纪福州市區音系的福州話羅馬字，曾爲教會所使用。
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  algebra:
+    - xform/^([a-z]+)(\{.+\})?$/$1/
+    - derive/aer/ae/
+    - derive/ori/oir/
+    - derive/ori/oi/
+    - derive/erur/eur/
+    - derive/erur/eru/
+    - derive/erurk/euk/
+    - derive/erurng/eung/
+
+translator:
+  dictionary: GauHuoiLMC
+  # 設定 table_translator 使用的詞典名
+  spelling_hints: 12
+  enable_sentence: true
+  enable_encoder: true
+  enable_user_dict: false
+  overwrite_comment: true
+  comment_format:
+    - xform/[a-z]+(\{([^\{\}]+)\})?/$2/
+  
+punctuator:
+  half_shape: default
+  
+key_binder:
+  import_preset: default

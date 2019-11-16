@@ -1,0 +1,287 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: BekIngLMC
+version: "2019.9.14.1"
+sort: original
+...
+
+l	l{柳}
+b	b{邊}
+g	g{求}
+k	k{氣}
+d	d{低}
+p	p{波}
+t	t{他}
+c	c{曾}
+n	n{日}
+s	s{時}
+m	m{蒙}
+ng	ng{語}	50000
+ch	ch{出}
+h	h{喜}
+
+ŭng	ung{春上平}
+ūng	ung{春上上}
+úng	ung{春上去}
+úk	uk{春上入}
+ùng	ung{春下平}
+ûng	ung{春下去}
+ŭk	uk{春下入}
+
+uă	ua{花上平}
+uā	ua{花上上}
+uá	ua{花上去}
+uáh	uah{花上入}
+uà	ua{花下平}
+uâ	ua{花下去}
+uăh	uah{花下入}
+
+iŏng	iong{香上平}
+iōng	iong{香上上}
+ióng	iong{香上去}
+iók	iok{香上入}
+iòng	iong{香下平}
+iông	iong{香下去}
+iŏk	iok{香下入}
+
+ĭu	iu{秋上平}
+īu	iu{秋上上}
+íu	iu{秋上去}
+íuh	iuh{秋上入}
+ìu	iu{秋下平}
+îu	iu{秋下去}
+ĭuh	iuh{秋下入}
+
+ăng	ang{山上平}
+āng	ang{山上上}
+áng	ang{山上去}
+ák	ak{山上入}
+àng	ang{山下平}
+âng	ang{山下去}
+ăk	ak{山下入}
+
+ăi	ai{開上平}
+āi	ai{開上上}
+ái	ai{開上去}
+áih	aih{開上入}
+ài	ai{開下平}
+âi	ai{開下去}
+ăih	aih{開下入}
+
+ă	a{嘉上平}
+ā	a{嘉上上}
+á	a{嘉上去}
+áh	ah{嘉上入}
+à	a{嘉下平}
+â	a{嘉下去}
+ăh	ah{嘉下入}
+
+ĭng	ing{賓上平}
+īng	ing{賓上上}
+íng	ing{賓上去}
+ík	ik{賓上入}
+ìng	ing{賓下平}
+îng	ing{賓下去}
+ĭk	ik{賓下入}
+
+uăng	uang{歡上平}
+uāng	uang{歡上上}
+uáng	uang{歡上去}
+uák	uak{歡上入}
+uàng	uang{歡下平}
+uâng	uang{歡下去}
+uăk	uak{歡下入}
+
+ŏ	o{歌上平}
+ō	o{歌上上}
+ó	o{歌上去}
+óh	oh{歌上入}
+ò	o{歌下平}
+ô	o{歌下去}
+ŏh	oh{歌下入}
+
+ṳ̆	ur{須上平}
+ṳ̄	ur{須上上}
+ṳ́	ur{須上去}
+ṳ́h	urh{須上入}
+ṳ̀	ur{須下平}
+ṳ̂	ur{須下去}
+ṳ̆h	urh{須下入}
+
+uŏi	uoi{杯上平}
+uōi	uoi{杯上上}
+uói	uoi{杯上去}
+uóih	uoih{杯上入}
+uòi	uoi{杯下平}
+uôi	uoi{杯下去}
+uŏih	uoih{杯下入}
+
+ŭ	u{孤上平}
+ū	u{孤上上}
+ú	u{孤上去}
+úh	uh{孤上入}
+ù	u{孤下平}
+û	u{孤下去}
+ŭh	uh{孤下入}
+
+ĕng	eng{燈上平}
+ēng	eng{燈上上}
+éng	eng{燈上去}
+ék	ek{燈上入}
+èng	eng{燈下平}
+êng	eng{燈下去}
+ĕk	ek{燈下入}
+
+uŏng	uong{光上平}
+uōng	uong{光上上}
+uóng	uong{光上去}
+uók	uok{光上入}
+uòng	uong{光下平}
+uông	uong{光下去}
+uŏk	uok{光下入}
+
+ŭi	ui{輝上平}
+ūi	ui{輝上上}
+úi	ui{輝上去}
+úih	uih{輝上入}
+ùi	ui{輝下平}
+ûi	ui{輝下去}
+ŭih	uih{輝下入}
+
+iĕu	ieu{燒上平}
+iēu	ieu{燒上上}
+iéu	ieu{燒上去}
+iéuh	ieuh{燒上入}
+ièu	ieu{燒下平}
+iêu	ieu{燒下去}
+iĕuh	ieuh{燒下入}
+
+ṳ̆ng	urng{銀上平}
+ṳ̄ng	urng{銀上上}
+ṳ́ng	urng{銀上去}
+ṳ́k	urk{銀上入}
+ṳ̀ng	urng{銀下平}
+ṳ̂ng	urng{銀下去}
+ṳ̆k	urk{銀下入}
+
+ŏng	ong{釭上平}
+ōng	ong{釭上上}
+óng	ong{釭上去}
+ók	ok{釭上入}
+òng	ong{釭下平}
+ông	ong{釭下去}
+ŏk	ok{釭下入}
+
+ĭ	i{之上平}
+ī	i{之上上}
+í	i{之上去}
+íh	ih{之上入}
+ì	i{之下平}
+î	i{之下去}
+ĭh	ih{之下入}
+
+ĕ̤ng	erng{東上平}
+ē̤ng	erng{東上上}
+é̤ng	erng{東上去}
+é̤k	erk{東上入}
+è̤ng	erng{東下平}
+ê̤ng	erng{東下去}
+ĕ̤k	erk{東下入}
+
+āu	au{郊上上}
+ău	au{郊上平}
+áu	au{郊上去}
+áuh	auh{郊上入}
+àu	au{郊下平}
+âu	au{郊下去}
+ăuh	auh{郊下入}
+
+uŏ	uo{過上平}
+uō	uo{過上上}
+uó	uo{過上去}
+uóh	uoh{過上入}
+uò	uo{過下平}
+uô	uo{過下去}
+uŏh	uoh{過下入}
+
+ĕ	e{西上平}
+ē	e{西上上}
+é	e{西上去}
+éh	eh{西上入}
+è	e{西下平}
+ê	e{西下去}
+ĕh	eh{西下入}
+
+iŏ	io{橋上平}
+iō	io{橋上上}
+ió	io{橋上去}
+ióh	ioh{橋上入}
+iò	io{橋下平}
+iô	io{橋下去}
+iŏh	ioh{橋下入}
+
+iĕ	ie{鷄上平}
+iē	ie{鷄上上}
+ié	ie{鷄上去}
+iéh	ieh{鷄上入}
+iè	ie{鷄下平}
+iê	ie{鷄下去}
+iĕh	ieh{鷄下入}
+iāng	iang{聲上上}
+iáng	iang{聲上去}
+iák	iak{聲上入}
+iàng	iang{聲下平}
+iâng	iang{聲下去}
+iăk	iak{聲下入}
+iăng	iang{聲上平}
+
+ŏi	oi{催上平}
+ōi	oi{催上上}
+ói	oi{催上去}
+óih	oih{催上入}
+òi	oi{催下平}
+ôi	oi{催下去}
+ŏih	oih{催下入}
+
+ĕ̤	er{初上平}
+ē̤	er{初上上}
+é̤	er{初上去}
+é̤h	erh{初上入}
+è̤	er{初下平}
+ê̤	er{初下去}
+ĕ̤h	erh{初下入}
+
+iēng	ieng{天上上}
+iĕng	ieng{天上平}
+iéng	ieng{天上去}
+iék	iek{天上入}
+ièng	ieng{天下平}
+iêng	ieng{天下去}
+iĕk	iek{天下入}
+
+iă	ia{奇上平}
+iā	ia{奇上上}
+iá	ia{奇上去}
+iáh	iah{奇上入}
+ià	ia{奇下平}
+iâ	ia{奇下去}
+iăh	iah{奇下入}
+
+uăi	uai{歪上平}
+uāi	uai{歪上上}
+uái	uai{歪上去}
+uáih	uaih{歪上入}
+uài	uai{歪下平}
+uâi	uai{歪下去}
+uăih	uaih{歪下入}
+ēu	eu{溝上上}
+éu	eu{溝上去}
+éuh	euh{溝上入}
+èu	eu{溝下平}
+êu	eu{溝下去}
+ĕuh	euh{溝下入}
+ĕu	eu{溝上平}
+
+n̂g	ng{伓下去}
