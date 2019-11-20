@@ -1,5 +1,4 @@
-# 福州話羅馬字RIME輸入方案
-# Input Method of Foochow Romanized
+# 福州話羅馬字RIME輸入方案 Input Method of Foochow Romanized
 
 ## 本repo介紹
 「福州話羅馬字」（Foochow Romanized）的輸入方案在此處更新維護，本repo目前包含兩個版本的羅馬字——
