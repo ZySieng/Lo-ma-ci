@@ -7,7 +7,7 @@ schema:
   version: "2019.11.30.1"
   author:
     - 作者：子善 <zysieng@gamil.com>
-    - 基於十九世纪福州市區音系的福州話羅馬字，曾爲教會所使用。
+    - 基於十九世纪福州府府城音系的福州話羅馬字，曾爲教會所使用。
 
 engine:
   processors:
