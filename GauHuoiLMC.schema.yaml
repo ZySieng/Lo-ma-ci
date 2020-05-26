@@ -4,7 +4,7 @@
 schema:
   schema_id: GauHuoiLMC
   name: 福州話教會羅馬字
-  version: "2019.11.30.1"
+  version: "2020.5.26.1"
   author:
     - 作者：子善 <zysieng@gamil.com>
     - 基於十九世纪福州府府城音系的福州話羅馬字，曾爲教會所使用。
@@ -43,8 +43,6 @@ speller:
     - derive/erur/eru/
     - derive/erurk/euk/
     - derive/erurng/eung/
-    # 鍵入模糊音
-    - derive/ur/y/
 
 translator:
   dictionary: GauHuoiLMC
