@@ -60,3 +60,7 @@ punctuator:
   
 key_binder:
   import_preset: default
+
+style: 
+  font_face: "Times New Roman"
+  font_point: 16
